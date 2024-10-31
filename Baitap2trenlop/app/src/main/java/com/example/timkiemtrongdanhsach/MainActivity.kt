@@ -35,26 +35,11 @@ class MainActivity : AppCompatActivity() {
 
         // Danh sách sinh viên ban đầu
         studentList = listOf(
-            Student("Leonardo DiCaprio", "20210001"),
-            Student("Scarlett Johansson", "20210023"),
-            Student("Brad Pitt", "20210045"),
-            Student("Jennifer Lawrence", "20210067"),
-            Student("Tom Hanks", "20210089"),
-            Student("Natalie Portman", "20210111"),
-            Student("Robert Downey Jr.", "20210133"),
-            Student("Angelina Jolie", "20210155"),
-            Student("Chris Hemsworth", "20210177"),
-            Student("Emma Stone", "20210199"),
-            Student("Johnny Depp", "20210221"),
-            Student("Charlize Theron", "20210243"),
-            Student("Will Smith", "20210265"),
-            Student("Meryl Streep", "20210287"),
-            Student("Denzel Washington", "20210309"),
-            Student("Anne Hathaway", "20210331"),
-            Student("Matt Damon", "20210353"),
-            Student("Margot Robbie", "20210375"),
-            Student("Chris Evans", "20210397"),
-            Student("Sandra Bullock", "20210419")
+            Student("Quách Đình Dương", "20215558"),
+            Student("Vũ Văn Hảo", "20210034"),
+            Student("Từ Văn An", "20210045"),
+            Student("Đỗ Thành Đạt", "20210067"),
+
         )
 
         // Sao chép danh sách ban đầu vào filteredList
